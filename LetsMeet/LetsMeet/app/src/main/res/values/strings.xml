@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">LetsMeet</string>
+    <string name="create">Create</string>
+    <string name="location">Event Location</string>
+    <string name="capacity">Capacity</string>
+    <string name="eventType">Private / Public</string>
+    <string name="eventDesc">Event Description</string>
+    <string name="eventName">Event Name</string>
+    <string name="dateHint">DD/MM/YYYY</string>
+    <string name="title_activity_list_event_details">ListEventDetails</string>
+
+    <!--For Profile Settings-->
+    <string name="profilesettings">Profile SetUp</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="userlocation">Location</string>
+    <string name="editpassword">Edit Password</string>
+    <string name="preferences">Preferences</string>
+    <string name="history">History</string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnSave">Save</string>
+    <string name="btnChangeImage">Change Image</string>
+    <string name="logout">Logout</string>
+
+
+
+   <!--For Signup and Login activity-->
+    <string  name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string  name="auth_failed">Authentication error, Please enter a valid email and password or sign up</string>
+    <string  name="hint_email">Email</string>
+    <string  name="hint_password">Password</string>
+    <string  name="btn_login">LOGIN</string>
+    <string  name="btn_link_to_login">Already registered. Login !!</string>
+    <string  name="btn_sign_out">Sign Out</string>
+    <string name="btn_sign_up">Sign Up !!</string>
+    <string name="err_msg_email">Enter a valid email.</string>
+    <string name="err_msg_required">This field is required</string>
+    <string name="err_msg_password">Enter a valid password with a minimum of 6 characters.</string>
+    <string name="btn_link_to_signup">Don\'t have an account? Signup here!</string>
+    <string name="title_activity_main">Activity Main</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_user">User</string>
+</resources>
